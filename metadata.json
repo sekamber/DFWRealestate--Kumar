@@ -1,0 +1,7 @@
+{
+  "name": "DFWRealtor.ai - Neighborhood Market Analysis Bot",
+  "description": "Professional real estate market intelligence tool for the Dallas-Fort Worth area. Get instant reports for buyers, sellers, and investors using real-time data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
